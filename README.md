@@ -1,7 +1,7 @@
 # ShellSniffer
 
 - hooks directly into the game's global catalog and player account data (gameGlobal) to map your inventory in real-time <3
-- features an auditCategory() command to instantly crossreference owned items against unowned ones, filtering out premium-only or unobtainable items to generate a precise list for completionists and hoarders (such as myself)
+- features an auditCategory() command to instantly crossreference owned items against unowned ones to generate a precise list for completionists and hoarders (such as myself)
 
 
 # catalog reference list
